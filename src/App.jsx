@@ -23,16 +23,16 @@ function App() {
               <p className='profileName'>Ifeoma Okafor</p>
             </div>
             <div className='link-section'>
-              <a href="twitter.com" type='button'>Twitter Link</a>
-              <a href="twitter.com" type='button'>KodeCamp Team</a>
-              <a href="twitter.com" type='button'>KodeCamp Books</a>
-              <a href="twitter.com" type='button'>Python Books</a>
-              <a href="twitter.com" type='button'>Background Check for Coders</a>
-              <a href="twitter.com" type='button'>Design books</a>
+              <a href="https://twitter.com/" type='button'>Twitter Link</a>
+              <a href="#" type='button'>KodeCamp Team</a>
+              <a href="#" type='button'>KodeCamp Books</a>
+              <a href="#" type='button'>Python Books</a>
+              <a href="#" type='button'>Background Check for Coders</a>
+              <a href="#" type='button'>Design books</a>
             </div>  
           </div>  
           <div className='social-section'>
-            <a href="slack.com">
+            <a href="https://slack.com/">
               <img src={slack} alt="Slack profile"/>  
             </a> 
             <a href="https://github.com/e4ma-okafor">
