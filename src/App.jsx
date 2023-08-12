@@ -12,7 +12,7 @@ function App() {
               <img src="../src/assets/share.svg" alt="Share profile" className='none' />
             </div>
             <div className='profile-section'>
-              <img className='profileImg' src="../src/assets/e4ma.png" alt="Ifeoma"/>
+              <img className='profileImg' src="./assets/e4ma.png" alt="Ifeoma"/>
               <p className='profileName'>Ifeoma Okafor</p>
             </div>
             <div className='link-section'>
