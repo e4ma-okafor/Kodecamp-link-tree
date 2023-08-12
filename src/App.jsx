@@ -8,11 +8,11 @@ function App() {
         <div className='container'>
           <div className='main-section'>
             <div className='share'>
-              <img src="/src/assets/menu.svg" alt="Mobile menu" className='hide'/>
-              <img src="/src/assets/share.svg" alt="Share profile" className='none' />
+              <img src="../src/assets/menu.svg" alt="Mobile menu" className='hide'/>
+              <img src="../src/assets/share.svg" alt="Share profile" className='none' />
             </div>
             <div className='profile-section'>
-              <img className='profileImg' src="/src/assets/e4ma.png" alt="Ifeoma"/>
+              <img className='profileImg' src="../src/assets/e4ma.png" alt="Ifeoma"/>
               <p className='profileName'>Ifeoma Okafor</p>
             </div>
             <div className='link-section'>
@@ -26,17 +26,17 @@ function App() {
           </div>  
           <div className='social-section'>
             <a href="slack.com">
-              <img src="/src/assets/slack.svg" alt="Slack profile"/>  
+              <img src="../src/assets/slack.svg" alt="Slack profile"/>  
             </a> 
             <a href="https://github.com/e4ma-okafor">
-              <img src="/src/assets/github.svg" alt="Github profile"/>  
+              <img src="../src/assets/github.svg" alt="Github profile"/>  
             </a>            
           </div>      
         </div>  
         <div className='footer-section'>
-          <img src="/src/assets/kodecamp-logo.svg" alt="Kodecamp"/>
+          <img src="../src/assets/kodecamp-logo.svg" alt="Kodecamp"/>
           <p className='footerText'>KodeCamp Internship Task</p>
-          <img src="/src/assets/kodehauz-logo.svg" alt="Kodehauz"/>             
+          <img src="../src/assets/kodehauz-logo.svg" alt="Kodehauz"/>             
         </div>    
       </div>
     </>
