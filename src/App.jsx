@@ -43,7 +43,7 @@ function App() {
         <div className='footer-section'>
           <img src={kodecamp} alt="Kodecamp"/>
           <p className='footerText'>KodeCamp Internship Task</p>
-          <img src={kodehauz} alt="Kodehauz"/>             
+          <img src={kodehauz} alt="Kodehauz" className='kodehz'/>             
         </div>    
       </div>
     </>
