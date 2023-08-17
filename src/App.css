@@ -114,14 +114,14 @@ body {
 
   .hide {
     display: block;    
-  }
-
-  .share img {
-    right: 0;
-  }
+  }  
 
   .none {
     display: none;
+  }
+
+  .link-section a {
+    font-size: 14px;
   }
 
   .footer-section {
@@ -129,5 +129,11 @@ body {
     gap: 5px;
     align-items: flex-start;
     padding: 20px 20px 0px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 769px) {
+  .share img {
+    right: 0;
   }
 }
